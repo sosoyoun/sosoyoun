@@ -1,6 +1,10 @@
-### Hi there 👋
+
+
+![](https://images.velog.io/images/ss3152psy/post/b8dfe875-4504-4ad0-9fac-43e12c150495/name.gif)
+
 
 <!--
+### Hi there, I'm soyoun! 👋
 **sosoyoun/sosoyoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
