@@ -15,8 +15,7 @@
 
 <image src="https://user-images.githubusercontent.com/70262871/106377135-2b94e580-63de-11eb-98db-68cfc0cf528e.png" height="50">
 
-
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsosoyoun&count_bg=%23737BF7&title_bg=%23A09797&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 ### Hi there, I'm soyoun! 👋
