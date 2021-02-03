@@ -25,7 +25,9 @@
 <image src="https://user-images.githubusercontent.com/70262871/106377135-2b94e580-63de-11eb-98db-68cfc0cf528e.png" height="50">
  
 
-
+---
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ss3152psy@gmail.com)](mailto:ss3152psy@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/soyoun_d/)](https://www.instagram.com/soyoun_d/)
   
 <!--
 ![soyoun의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=soyoun&count_private=true&show_icons=true&theme=radical)
