@@ -26,8 +26,12 @@
  
 
 ---
+ <div align=center>
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ss3152psy@gmail.com)](mailto:ss3152psy@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/soyoun_d/)](https://www.instagram.com/soyoun_d/)
+
+  </div>
   
 <!--
 ![soyoun의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=soyoun&count_private=true&show_icons=true&theme=radical)
